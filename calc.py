@@ -32,7 +32,6 @@ def mult(a, b):
 # b -- divisor
 def div(a, b):
     return a / b
-<<<<<<< HEAD
 #modulus function
 #a --dividend 
 #b-- divisor
@@ -40,13 +39,11 @@ def mod(a, b):
 	return a % b
 
 
-=======
 # Exponent function
 # a -- base
 # b -- exponent
 def exp(a, b):
 	return a ** b
->>>>>>> b4db5da9fbf2fe0f886671933503b6a0c7dc713a
 # -------------------------------------------------------- #
 
 
